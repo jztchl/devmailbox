@@ -12,7 +12,7 @@ A lightweight local SMTP server with a clean Flask-based web UI for viewing and 
 * **Web UI** – Browse messages, view raw source, send new messages
 * **No External SMTP** – No username/password required
 * **Cross-Platform** – Runs on Windows, macOS, and Linux
-* **Packagable** – Build to `.exe` with PyInstaller for easy sharing
+* **Packagable** – Build to `.exe` with PyInstaller for easy sharing on Windows
 
 ---
 
@@ -109,4 +109,5 @@ MIT License — use freely for development purposes.
 ---
 
 This keeps it sharp and user-friendly. When you push releases, just drop the EXE there and folks can grab it without fuss.
+
 
