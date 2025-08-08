@@ -1,10 +1,11 @@
 from smtp_server import run_smtp_server
 from web_ui import run_flask_server
-
+import webbrowser
 import threading
-
+import time
 def main():
     threading.Thread(target=run_smtp_server).start()
+    threading.Thread(target=lambda: webbrowser.open("http://127.0.0.1:5000"), daemon=True).start()
     run_flask_server()
 
 
