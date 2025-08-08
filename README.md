@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/logo.png" alt="Dev Mail Box" width="200">
 </p>
-<h1 align="center">Dev Mail BOx</h1>
+<h1 align="center">Dev Mail Box</h1>
 A lightweight local SMTP server with a clean Flask-based web UI for viewing and sending test emails — perfect for development environments.
 
 ---
@@ -109,3 +109,4 @@ MIT License — use freely for development purposes.
 ---
 
 This keeps it sharp and user-friendly. When you push releases, just drop the EXE there and folks can grab it without fuss.
+
