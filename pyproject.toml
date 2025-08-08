@@ -1,0 +1,11 @@
+[project]
+name = "devmailbox"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "aiosmtpd>=1.4.6",
+    "flask>=3.1.1",
+    "pyinstaller>=6.15.0",
+]
