@@ -85,7 +85,7 @@ The compiled executable will be inside the `dist/` folder.
 ## 📥 Download Release
 
 Get the latest Windows executable here:
-[https://github.com/jztchl/devmailbox/releases/tag/v1](https://github.com/jztchl/devmailbox/releases/tag/v1)
+[https://github.com/jztchl/devmailbox/releases](https://github.com/jztchl/devmailbox/releases)
 
 *(Replace the URL above with your actual GitHub release link.)*
 
@@ -109,6 +109,7 @@ MIT License — use freely for development purposes.
 ---
 
 This keeps it sharp and user-friendly. When you push releases, just drop the EXE there and folks can grab it without fuss.
+
 
 
 
