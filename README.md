@@ -104,9 +104,8 @@ aiosmtpd>=1.4.5
 
 MIT License — use freely for development purposes.
 
----
 
-This keeps it sharp and user-friendly. When you push releases, just drop the EXE there and folks can grab it without fuss.
+
 
 
 
